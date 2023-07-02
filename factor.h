@@ -10,5 +10,7 @@
 
 /* size_t getline(char **lineptr, size_t *n, FILE *stream); */
 int factorize(char *buffer);
+void factorize(unsigned int num)
+int main(int argc, char *argv[])
 
 #endif /* _FACTOR_ALX_ */
